@@ -1,27 +1,8 @@
-# Assignment 1 - B21CS075
-
 ## Overview
 
 This project is a game developed using Python, OpenGL, and ImGui. The game consists of multiple screens and levels, including a main menu, gameplay scenes, and a game over screen. The player can move, jump, and interact with various objects in the game world.
 
 ## Project Structure
-
-
-B21CS075_A1/
-├── assets/
-│   ├── objects/
-│   │   └── objects.py
-│   └── shaders/
-│       └── shaders.py
-├── utils/
-│   ├── graphics.py
-│   └── window_manager.py
-├── MainMenu.py
-├── game.py
-├── main.py
-└── README.md
-
-
 - **assets/objects/objects.py**: Contains definitions for various game objects like the player, enemies, platforms, etc.
 - **utils/window_manager.py**: Manages the game window and handles input events.
 - **MainMenu.py**: Implements the main menu of the game.
